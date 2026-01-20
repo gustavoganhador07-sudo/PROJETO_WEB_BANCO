@@ -1,0 +1,17 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body{
+  
+}
+
+.login{
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    margin-top: 20%;
+    margin-left: 41%;
+    text-align: center;
+}
